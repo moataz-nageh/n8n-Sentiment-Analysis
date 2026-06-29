@@ -59,19 +59,6 @@ An end-to-end AI automation workflow built with **n8n** and an **LLM (Ollama)** 
 └── README.md
 ```
 
----
-
-## 💡 Use Cases
-
-- Customer Feedback Analysis
-- Sentiment Analysis
-- Business Intelligence
-- Data Collection
-- Dashboard Preparation
-- AI Automation
-
----
-
 ## 👨‍💻 Author
 
 **Moataz Nageh**
